@@ -46,3 +46,9 @@ This version focuses on **long-term rental investing** and does not currently su
 
 - `real_estate_app.py` – Main application file
 - `README.md` – This guide
+
+- [Portfolio Site](https://jonathanxkennedy.carrd.co)
+
+## 👨‍💻 About the Author
+Jonathan Kennedy – Data Analyst | M.S. Data Science Candidate at Texas Tech University  
+Focused on real estate analytics, visualization, and investment modeling.
